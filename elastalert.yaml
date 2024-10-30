@@ -1,0 +1,18 @@
+rules_folder: /opt/elastalert/rules
+
+run_every:
+  seconds: 60
+
+buffer_time:
+  minutes: 15
+
+es_host: 
+es_port: 
+use_ssl: true
+verify_certs: false
+es_username: 
+es_password: 
+writeback_index: elastalert_index
+
+alert_time_limit:
+  days: 2

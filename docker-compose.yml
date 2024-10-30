@@ -1,0 +1,7 @@
+services:
+  elastalert:
+    image: jertel/elastalert2
+    volumes:
+      - ./elastalert.yaml:/opt/elastalert/config.yaml
+      - ./rules:/opt/elastalert/rules/
+
