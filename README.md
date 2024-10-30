@@ -2,7 +2,7 @@
 ### Janky Script to Convert Sigma Rules to Elastalert Rules 
 
 # Exposition
-Ran into a slight problem with a school project... Needed to convert Sigma rules to Elastic Search rules. Surely it can't be that bad. 
+Ran into a slight problem with a school project... Needed to convert Sigma rules to Elastic Search rules. Surely it can't be that bad... right?
 
 However, there are few massive issues.
 
